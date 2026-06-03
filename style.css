@@ -5,6 +5,7 @@ img{
 }
 h1{
   text-align:center;
+  color:white;
 }
 p{
   text-align:center
@@ -31,7 +32,7 @@ nav a:hover{
 nav a{
   color:white;
   text-decoration:none;
-  margin:20px;
+  margin:15px;
   font-size:18px;
   font-weight:bold;
 }
