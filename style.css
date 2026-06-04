@@ -3,6 +3,18 @@ img{
   margin:auto;
   border-radius:50%
 }
+.home-btn{
+  background:linea-gradient(135deg,#2563eb,#60a5fa);
+  color:white;
+  padding:15px 30px;
+  border:none;
+  border-radius:25px;
+  font-size:18px;
+  font-weight:bold;
+  cursor:pointer;
+  display:block;
+  margin:20px auto;
+}
 h1{
   text-align:center;
   color:white;
