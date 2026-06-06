@@ -95,3 +95,6 @@ footer{
   text-align:center;
   box-shadow:0 0 15px gray;
 }
+.home-btn:hover{
+  background -color:darkblue;
+}
