@@ -4,12 +4,12 @@ img{
   border-radius:50%
 }
 .home-btn{
-  background:linea-gradient(135deg,#2563eb,#60a5fa);
+  background-color:blue;
   color:white;
-  padding:15px 30px;
+  padding:12px 20px;
   border:none;
   border-radius:25px;
-  font-size:18px;
+  font-size:16px;
   font-weight:bold;
   cursor:pointer;
   display:block;
@@ -17,10 +17,11 @@ img{
 }
 h1{
   text-align:center;
-  color:white;
+  color:darkblue;
 }
 p{
   text-align:center
+  color:black;
 }
 nav{
   background -color:rgba(0,0,0,0.3);
