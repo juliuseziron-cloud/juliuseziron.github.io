@@ -3,6 +3,12 @@ img{
   margin:auto;
   border-radius:50%
 }
+.bunner{
+  width:100%;
+  max-height:300px;
+  object-fit:cover;
+  border-radius:10px;
+}
 .home-btn{
   background-color:blue;
   color:white;
